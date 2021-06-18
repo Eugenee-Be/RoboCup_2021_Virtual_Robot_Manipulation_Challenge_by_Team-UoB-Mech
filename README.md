@@ -16,7 +16,7 @@ It'll be great if we can get feedback and example solution to improve ourselves 
   
 1. _More detailed learning materials and competition closely related materials and workshops needed._  
 As non-computer science (Mech Eng) UG students and beginners of robotics control, we felt extremely no clue to construct our work.   
-We read through every related examples in the documentation and can understand them. However when it comes to write the codes we felt blank in our mind.  
+We read through every related examples in the documentation and it's easy to understand them. However when it comes to write the codes we felt blank in our mind.  
   
 2. _Appreciation_  
 Thanks for the great support to us from April and Jose. They answered our questions and enquiries very quickly and patiently.
